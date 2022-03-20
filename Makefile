@@ -11,3 +11,7 @@ build:
 .PHONY: preview
 preview:
 	code $(MERMAID_TO_BUILD).svg
+
+.PHONY: edit
+edit:
+	$(EDITOR) $(MERMAID_TO_BUILD)

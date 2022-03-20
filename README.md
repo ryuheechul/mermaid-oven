@@ -14,4 +14,4 @@ Assuming [this svg viewer extension](https://marketplace.visualstudio.com/items?
 
 `⌘⇧P` > `SVG Viewer: View SVG` should preview SVG and should refresh whenever the svg files gets updated.
 
-Now you can keep editing `example.mmd` and every time you save, preview should reflect that as well.
+Now you can keep editing via `make edit` and every time you save the file, preview should reflect that as well.
